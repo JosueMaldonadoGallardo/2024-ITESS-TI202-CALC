@@ -1,0 +1,5 @@
+%%ITESS-TICS
+%% ENERO-JUNIO 2024
+%%TI202 CALCULO INTEGRAL
+pkg load symbolic
+syms x
